@@ -1,4 +1,4 @@
-{
+{ 
   "name": "user-profile-service",
   "version": "1.0.0",
   "description": "User profile management microservice",
